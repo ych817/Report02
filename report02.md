@@ -14,5 +14,10 @@ In a scenario , where you work with others as a team . You wrote some code using
 
 >  
 
-## Question 2 
+## Question 2
 
+Explain the difference between merge and fork . Give an example for each use case . 
+
+> **Answer :** 
+>
+> 
