@@ -1,5 +1,4 @@
 """
-test
 The code is written for COMPSCI235 Lab 2 Git. 
 
 - You should work as a pair for this activity.
