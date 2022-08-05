@@ -83,6 +83,10 @@ def toss_coin():
         Hint: Using random.randint() function.
     """
     coin = 'Head'
+    num = random.randint(1, 0)
+    if num == 1:
+        print("This is so unlucky, I aimed for head")
+        return "Back"
     return coin
 
 
